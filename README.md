@@ -47,6 +47,3 @@ Welcome to my profile! I am a 17-year-old (turning 18 on March 10) security rese
 * **Phone:** [+37499809044]
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sergey's Stats" />
-</p>

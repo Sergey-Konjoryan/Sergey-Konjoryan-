@@ -28,7 +28,7 @@ Welcome to my profile! I am a 17-year-old (turning 18 on March 10) security rese
 ---
 
 ### 🏆 Practical Experience & Lab Work
-* **[Detailed Pentest Write-ups (Repository)](https://github.com/LuX/Write-Ups)** — My documented process of identifying and exploiting vulnerabilities.
+* **[Detailed Pentest Write-ups (Repository)](https://github.com/Sergey-Konjoryan/Write-Ups)** — My documented process of identifying and exploiting vulnerabilities.
 * **VulnHub:** Successfully compromised 10+ machines including:
   * *Kioptrix Series*
   * *Tr0ll Series*
